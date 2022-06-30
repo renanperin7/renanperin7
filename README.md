@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renanperin7
 - 👀 I’m interested in working in site criation
-- 🌱 I’m currently learning html5 and css3
+- 🌱 I’m currently learning html5, css3, javascript and react.js
 - 📫 How to reach me https://twitter.com/perin_renan
 
 <!---
