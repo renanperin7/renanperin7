@@ -1,6 +1,6 @@
 - 👋 Olá, sou @renanperin7
-- 👀 Estou interessado em criação de sites, já aprendi sobre HTML5, CSS3 e JavaScript
-- 🌱 Atualmente estou aprendendo React.js, no qual estou me interessando bastante!
+- 👀 Estou interessado em criação de sites, já aprendi sobre HTML5, CSS3, JavaScript, TypeScript, React, Angular e Java focado em orientação a objetos.
+- 🌱 Atualmente estou aprendendo mais sobre Linux, no qual estou me interessando bastante!
 - 📫 Me encontre no https://twitter.com/perin_renan e https://www.linkedin.com/in/renan-perin-ribeiro-483443231/
 
 <!---
