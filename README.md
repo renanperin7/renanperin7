@@ -1,7 +1,8 @@
 - 👋 Olá, sou @renanperin7
-- 👀 Estou interessado em criação de sites, já aprendi sobre HTML5, CSS3, JavaScript, TypeScript, React, Angular e Java focado em orientação a objetos.
-- 🌱 Atualmente estou aprendendo mais sobre Linux, no qual estou me interessando bastante!
-- 📫 Me encontre no https://twitter.com/perin_renan e https://www.linkedin.com/in/renan-perin-ribeiro-483443231/
+- Sou desenvolvedor full-stack junior, e atualmente trabalho com Delphi, Kotlin com Spring Boot e Rest, Postgresql e também desenvolvo relatórios na ferramenta JasperSoft!
+- 👀 Já trabalhei com Angular em um freelance e comecei apredendo a respeito de Front-End, React e Angular foram os que mais me interessaram,
+- mas ao entrar nesta empresa, me aperfeiçoei em todos os aspectos me tornando um Dev Ful-Stack!
+- 📫 Me encontre no https://www.linkedin.com/in/renan-perin-ribeiro-483443231/
 
 <!---
 renanperin7/renanperin7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
