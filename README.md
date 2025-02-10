@@ -1,6 +1,6 @@
 - 👋 Olá, sou @renanperin7
 - Sou desenvolvedor full-stack junior, e atualmente trabalho com Delphi, Kotlin com Spring Boot e Rest, Postgresql e também desenvolvo relatórios na ferramenta JasperSoft!
-- 👀 Já trabalhei com Angular em um freelance e comecei apredendo a respeito de Front-End, React e Angular foram os que mais me interessaram,
+- 👀 Já fiz projetos em Angular e comecei apredendo a respeito de Front-End, React e Angular foram os que mais me interessaram,
 - mas ao entrar nesta empresa, me aperfeiçoei em todos os aspectos me tornando um Dev Ful-Stack!
 - 📫 Me encontre no https://www.linkedin.com/in/renan-perin-ribeiro-483443231/
 
